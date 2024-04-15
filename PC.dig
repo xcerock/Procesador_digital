@@ -68,7 +68,7 @@
       <elementAttributes>
         <entry>
           <string>Bits</string>
-          <int>16</int>
+          <int>32</int>
         </entry>
       </elementAttributes>
       <pos x="500" y="200"/>
